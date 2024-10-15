@@ -1,0 +1,10 @@
+.page {
+    background: radial-gradient(circle closest-corner at 50% 50%, rgba(255, 255, 255, 1) 18.9%, rgba(0, 0, 0, 1) 100%);
+}
+
+.image-container {
+    margin: auto;
+    background-image: url("images/freepik_edit.png");
+    width: 600px;
+    height: 100vh;
+  }
